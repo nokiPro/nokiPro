@@ -30,7 +30,7 @@
   </a>
 </p>
 
-[![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> 
