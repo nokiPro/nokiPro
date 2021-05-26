@@ -31,7 +31,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=default" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nokiPro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
