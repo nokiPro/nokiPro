@@ -27,8 +27,8 @@
   </a>
 </p>
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=default" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=default" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nokiPro&theme=juicyfresh&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
