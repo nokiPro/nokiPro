@@ -28,9 +28,6 @@
   <a href="https://qiita.com/nokiPro">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
-  <a href="https://dev.to/nokiPro" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
-  </a>
 </p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
