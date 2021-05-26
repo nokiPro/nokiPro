@@ -2,6 +2,10 @@
 <h3 align="center">A Challenging developer from Japan</h3>
 
 - 🔭 I’m currently working on [Boot camp at the ieloveGROUP Co., Ltd.](https://www.ielove-group.jp/)
+- 🎓 The university I attend is [Musashi University](https://www.musashi.ac.jp/)
+- 🎓 The university I attend is [Musashi University](https://www.musashi.ac.jp/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
