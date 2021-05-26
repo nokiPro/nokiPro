@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daiki Ogawa</h1>
-<h3 align="center">A Challenging developer from Japan</h3>
+<h3 align="center">-A Challenging developer from Japan-</h3>
 
+
+<h3 align="left">My activity:</h3>
 - 🔭 I’m currently working on [Boot camp at the ieloveGROUP Co., Ltd.](https://www.ielove-group.jp/)
 - 🎓 The university I attend is [Musashi University](https://www.musashi.ac.jp/)
 - 💻 Other schools are [42 Tokyo](https://42tokyo.jp/)
