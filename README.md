@@ -65,100 +65,18 @@
 [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-#### Development Environment
+<h3 align="left">Development Environment:</h3>
 
 - Favorite Languages: Rust
-- Editor: Neovim
-- Shell: zsh
-- Terminal: Alacritty, tmux
-- OS: ArchLinux(i3-gaps/sway)
-- PC: Thinkpad X1 Carbon
-- Keyboard: HHKB hybrid
-- Mouse: SlimBlade
-- Smartphone: Pixel4a
+- Editor: Visual Studio Code
+- Shell: bash
+- Terminal: Terminal
+- OS: macOS
+- PC: MacBook Pro (13-inch, M1, 2020)
+- Keyboard: MX Keys for Mac
+- Mouse: Magic Mouse
+- Smartphone: iPhone X
+- Tablet: iPad Pro 2021
 
 #### Analysis
 
-<!-- <img height="150" src="https://github.com/yutkat/yutkat/blob/master/images/stat.svg" alt="Alternative Text"/> -->
-
-<details>
-  <summary>Other Statics</summary>
-  <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 1,037 Contributions in the Year 2021
- > 
-> 📦 12.9 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
-🌆 Daytime    57 commits     ████████░░░░░░░░░░░░░░░░░   33.73% 
-🌃 Evening    54 commits     ████████░░░░░░░░░░░░░░░░░   31.95% 
-🌙 Night      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
-Wednesday    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Thursday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
-Friday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-Saturday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Sunday       27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    53 hrs 14 mins      ████████████████████░░░░░   80.95% 
-JSON                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
-Lua                      2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-Bash                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-JavaScript               1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02%
-
-🔥 Editors: 
-Browser                  52 hrs 31 mins      ████████████████████░░░░░   79.86% 
-Vim                      13 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   20.14%
-
-💻 Operating System: 
-Linux                    65 hrs 46 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Vim script** 
-
-```text
-Vim script               8 repos             █████████████░░░░░░░░░░░░   53.33% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/yutkat/yutkat/main/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-</details>
-
-
-[![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
