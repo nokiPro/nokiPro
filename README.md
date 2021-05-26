@@ -28,7 +28,8 @@
 </p>
 
 ![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/nokiPro/nokiPro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro)](https://github.com/nokiPro/github-readme-stats)
+
 
 
 
