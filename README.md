@@ -1,4 +1,4 @@
-### 👋 Hi! I'm nokiPro
+### 👋 Hi! I'm Daiki Ogawa
 
 <p align="left"> 
   <a href="https://github.com/nokiPro/nokiPro/">
@@ -12,9 +12,6 @@
   </a>
   <a href="http://qiita.com/nokiPro">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nokiPro/posts.svg" />
-  </a>
-  <a href="http://qiita.com/nokiPro">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nokiPro/contributions.svg" />
   </a>
 </p>
 
@@ -31,6 +28,11 @@
 </p>
 
 [![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro)](https://github.com/anuraghazra/github-readme-stats)
+![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true)
+![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=radical)
+
+
+
 
 
 <p align="left"> 
