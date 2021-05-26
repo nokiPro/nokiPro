@@ -67,7 +67,7 @@
 
 <h3 align="left">Development Environment:</h3>
 
-- Favorite Languages: Rust
+- Favorite Languages: JavaScript
 - Editor: Visual Studio Code
 - Shell: bash
 - Terminal: Terminal
