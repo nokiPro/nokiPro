@@ -27,9 +27,7 @@
   </a>
 </p>
 
-[![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro)](https://github.com/anuraghazra/github-readme-stats)
-![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true)
-![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=radical)
+![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=dark)
 
 
 
