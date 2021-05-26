@@ -8,8 +8,8 @@
   <a href="https://github.com/nokiPro">
     <img height="20" src="https://img.shields.io/github/followers/nokiPro?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/nokiPro">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nokiPro/posts.svg" />
+  <a href="http://qiita.com/noki_pro">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/noki_pro/posts.svg" />
   </a>
 </p>
 
