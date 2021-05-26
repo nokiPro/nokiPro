@@ -4,8 +4,8 @@
   <a href="https://github.com/nokiPro/nokiPro/">
     <img src="https://komarev.com/ghpvc/?username=nokiPro" alt="nokiPro" />
   </a>
-  <a href="http://twitter.com/nokiPro">
-    <img height="20" src="https://img.shields.io/twitter/follow/nokiPro?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/_nokiPro">
+    <img height="20" src="https://img.shields.io/twitter/follow/_nokiPro?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/nokiPro">
     <img height="20" src="https://img.shields.io/github/followers/nokiPro?label=follow&logo=github&style=flat" />
