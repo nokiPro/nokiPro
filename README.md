@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_nokipro" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="_nokipro" width="30％" /></a>
-<a href="https://fb.com/daiki.ogawa.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="daiki.ogawa.2000" height="30" width="40" /></a>
-<a href="https://discord.gg/dogawa#6849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dogawa#6849" height="30" width="40" /></a>
+<a href="https://fb.com/daiki.ogawa.2000" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="daiki.ogawa.2000" width="30％" /></a>
+<a href="https://discord.gg/dogawa#6849" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="dogawa#6849" width="30％" /></a>
 </p>
 
 <br />
