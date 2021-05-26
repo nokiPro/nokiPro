@@ -10,21 +10,6 @@
   <a href="https://github.com/nokiPro">
     <img height="20" src="https://img.shields.io/github/followers/nokiPro?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/nokiPro">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/nokiPro?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/nokiPro">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="https://zenn.dev/nokiPro">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nokiPro/likes" />
-  </a>
-  <a href="https://zenn.dev/nokiPro">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nokiPro/followers" />
-  </a>
-  <a href="https://zenn.dev/nokiPro">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nokiPro/articles" />
-  </a>
   <a href="http://qiita.com/nokiPro">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nokiPro/posts.svg" />
   </a>
@@ -34,23 +19,17 @@
 </p>
 
 <p align="left"> 
-  <a href="https://yutkat.github.io/">
+  <a href="https://nokiPro.github.io/">
     <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
   </a>
-  <a href="https://twitter.com/yutkat">
+  <a href="https://twitter.com/_nokiPro">
     <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
   </a>
-  <a href="https://qiita.com/yutkat">
+  <a href="https://qiita.com/nokiPro">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
-  <a href="https://dev.to/yutkat" target="blank">
+  <a href="https://dev.to/nokiPro" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/yutkat" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" />
-  </a>
-  <a href="https://www.quora.com/profile/Yutkat" target="blank">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/732/732105.svg" alt="yutkat" height="30" width="30" />
   </a>
 </p>
 
