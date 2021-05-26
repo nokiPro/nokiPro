@@ -14,13 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_nokipro" target="blank" padding-left="20px"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="_nokipro" width="30％" /></a>
+<a href="https://twitter.com/_nokipro" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="_nokipro" width="30％" /></a>
 <a href="https://fb.com/daiki.ogawa.2000" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="daiki.ogawa.2000" width="30％" /></a>
 <a href="https://discord.gg/dogawa#6849" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="dogawa#6849" width="30％" /></a>
 </p>
 
-<br />
-<br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
