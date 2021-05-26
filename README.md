@@ -27,7 +27,7 @@
   </a>
 </p>
 
-![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=gruvbox)
+![nokiPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&theme=tokyonight)
 
 
 
