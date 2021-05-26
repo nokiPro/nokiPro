@@ -30,8 +30,7 @@
   </a>
 </p>
 
-<!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
-![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
+[！[nokiProのGitHub統計]（https://github-readme-stats.vercel.app/api？username = nokiPro）]（https://github.com/anuraghazra/github-readme-stats）
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
