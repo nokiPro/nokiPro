@@ -25,7 +25,6 @@
 
 - 💻 Other schools are [42 Tokyo](https://42tokyo.jp/)
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +33,6 @@
 <a href="https://discord.gg/dogawa#6849" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="dogawa#6849" width="30％" /></a>
 </p>
 
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -53,6 +51,8 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
+
+<h3 align="left">My data:</h3>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
