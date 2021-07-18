@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm practicing saxophone;
 - 📫 How to reach me: noki.g2000@gmail.com;
 
-[![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 **Languages and Tools:** 
 <p>
@@ -52,7 +52,7 @@ You can use the website to generate badges: https://shields.io/
   <p>
     
   <p align="left"> 
-    <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vue-dark" />
-    <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vue-dark" />
+    <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
+    <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
   </p>
 </p>
