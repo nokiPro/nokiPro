@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:noki.g2000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_nokiPro)
 [![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/daiki.ogawa.2000)
-[![Discode](https://img.shields.io/badge/-Discode-6654ff?style=flat&logo=DiscodelogoColor=white)](https://discord.gg/dogawa#6849)
+[![Discode](https://img.shields.io/badge/-Discode-6654ff?style=flat&logo=Discodelogo&Color=white)](https://discord.gg/dogawa#6849)
 
 &nbsp;
 
@@ -35,23 +35,24 @@ You can use the website to generate badges: https://shields.io/
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-   <p align="left"> 
-  <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
-  <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
-</p>
   <p display="inline-brock" aline="left">
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
     <br />
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <p>
+    
+  <p align="left"> 
+    <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+    <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+  </p>
 </p>
