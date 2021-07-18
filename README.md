@@ -1,4 +1,4 @@
-![](https://github.com/nokiPro/nokiPro/blob/main/icons_header2.png)
+![](https://github.com/nokiPro/nokiPro/blob/main/icons_header3.png)
 
 <!-- Your title -->
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
