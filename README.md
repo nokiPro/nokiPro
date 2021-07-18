@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
