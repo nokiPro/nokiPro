@@ -35,6 +35,9 @@ You can use the website to generate badges: https://shields.io/
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+   <p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+  </p>
   <p display="inline-brock" aline="left">
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
@@ -50,7 +53,4 @@ You can use the website to generate badges: https://shields.io/
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <p>
-   <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
-  </p>
 </p>
