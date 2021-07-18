@@ -21,11 +21,11 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
-- 🌱 I’m currently learning C and Rails;
-- ⚡️ Fun-Fact: I'm practicing saxophone!
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- 🌱 I’m currently learning C and Ruby on Rails;
+- 🎓 I'm learning at [42tokyo](https://42tokyo.jp/);
+- 📖 I’m currently learning C and Ruby on Rails;
+- 💭 My dream is to make people smile;
+- ⚡️ Fun-Fact: I'm practicing saxophone;
 - 📫 How to reach me: noki.g2000@gmail.com;
 
 [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -36,19 +36,19 @@ You can use the website to generate badges: https://shields.io/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <p display="inline-brock" aline="left">
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code> 
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-    <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+    <br />
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
   <p>
     
   <p align="left"> 
