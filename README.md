@@ -1,3 +1,6 @@
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <!-- Your title -->
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
@@ -16,9 +19,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
 - 🌱 I’m currently learning C and Ruby on Rails;
 - 🎓 I'm learning at [42tokyo](https://42tokyo.jp/);
@@ -29,7 +29,12 @@ You can use the website to generate badges: https://shields.io/
 
 <br>
 
+**My data:**
+<br>
+<br>
 [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
+<img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
 
 <br>
 
@@ -45,19 +50,15 @@ You can use the website to generate badges: https://shields.io/
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-    <br />
+    <br>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+    <br>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
   <p>
-    
-  <br>
-
-  <p align="left"> 
-    <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
-    <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
-  </p>
 </p>
