@@ -36,8 +36,9 @@ You can use the website to generate badges: https://shields.io/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
    <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
-  </p>
+  <img alt="Top Langs" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+  <img alt="github stats" height="125px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=vision-friendly-dark" />
+</p>
   <p display="inline-brock" aline="left">
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
