@@ -54,9 +54,7 @@ You can use the website to generate badges: https://shields.io/
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
   <p>
-    
-  <br>
-    
+
   <p align="left"> 
     <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
     <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
