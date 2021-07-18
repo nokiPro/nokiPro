@@ -1,7 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+![](https://github.com/nokiPro/nokiPro/blob/main/icons_header.png)
 
 <!-- Your title -->
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
@@ -20,6 +17,9 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
 - 🌱 I’m currently learning C and Ruby on Rails;
