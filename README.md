@@ -1,4 +1,3 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Your title -->
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
