@@ -64,3 +64,5 @@ You can use the website to generate badges: https://shields.io/
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
   <p>
 </p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
