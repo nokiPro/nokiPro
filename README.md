@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img align="right" alt="Github" src="https://github.com/nokiPro/nokiPro/blob/main/github_image.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
 - 🌱 I’m currently learning C and Ruby on Rails;
@@ -64,5 +64,3 @@ You can use the website to generate badges: https://shields.io/
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
   <p>
 </p>
-
-<img  align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
