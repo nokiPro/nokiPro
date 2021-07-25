@@ -17,6 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -32,15 +33,16 @@ You can use the website to generate badges: https://shields.io/
 <br>
 
 **My data:**
-<br>
-<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
 <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
 
 <br>
 
-**Languages and Tools:** 
+**Languages and Tools:**
+-------------------------------------------------------------------------------------------------------------------------------------------------
 <p>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
