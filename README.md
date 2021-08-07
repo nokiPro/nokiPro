@@ -3,6 +3,7 @@
 ![](https://github.com/nokiPro/nokiPro/blob/main/icons_header3.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="35%" align="left" alt="Github" src="https://github.com/nokiPro/nokiPro/blob/main/C9A3E44A-636B-4D3B-A53C-27ED231FC447_1_201_a.jpeg" />
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
 - 🌱 I’m currently learning C and Ruby on Rails;
@@ -13,6 +14,14 @@
 - 📫 How to reach me: noki.g2000@gmail.com;
 
  <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+    
 
 <details>
   <summary>Other my data</summary>
