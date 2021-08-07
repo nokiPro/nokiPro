@@ -13,6 +13,7 @@
 - 📫 How to reach me: noki.g2000@gmail.com;
 
  <br>
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 <details>
   <summary>Other my data</summary>
