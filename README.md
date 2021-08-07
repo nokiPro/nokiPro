@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:noki.g2000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_nokiPro)
 [![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/daiki.ogawa.2000)
-[![Discode](https://img.shields.io/badge/-Discode-6654ff?style=flat&logo=Discodelogo&Color=white)](https://discord.gg/dogawa#6849)
 
 &nbsp;
 
