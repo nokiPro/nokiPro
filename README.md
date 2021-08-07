@@ -12,7 +12,7 @@
 - ⚡️ Fun-Fact: I'm practicing saxophone;
 - 📫 How to reach me: noki.g2000@gmail.com;
 
-<table>
+<table aline="center">
   <tr>
     <td align="center" width="96">
       <a href="#">
@@ -102,7 +102,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="./icon/helolu-icon.svg." width="48" height="48" alt="MySQL" />
+        <img src="./icon/heroku-icon.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Heroku
     </td>
@@ -126,18 +126,6 @@
     </td>
   </tr>
 </table>
- <br>
- <p align="center" display="inline-brock">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
- </p>
 
 <details>
   <summary>Other my data</summary>
