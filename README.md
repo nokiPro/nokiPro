@@ -18,111 +18,111 @@
       <a href="#">
         <img src="./icon/c.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C&nbsp;
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./icon/ruby.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>ruby
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./icon/php.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Go
+      <br>php
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./icon/javascript.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Jsonnet
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./icon/typescript-icon.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./icon/go.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="#">
+        <img src="./icon/swift.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icon/rails.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Rails
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icon/zend-framework.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Zend
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icon/react.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#">
+        <img src="./icon/vue.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Bootstrap
+      <br>Vue
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./icon/aws.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./icon/firebase.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>Firebase
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#">
+        <img src="./icon/mysql.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br>Sass
+      <br>MySQL
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./icon/helolu-icon.svg." width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./icon/docker-icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#">
+        <img src="./icon/linux-tux.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <a href="#">
+        <img src="./icon/visual-studio-code.svg" width="48" height="48" alt="Thanos" />
       </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+      <br>VScode
     </td>
   </tr>
 </table>
@@ -143,13 +143,13 @@
   <summary>Other my data</summary>
 
   <br>
-  
+
   [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=nord" />
   <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
 
 </details>
-  
+
 <hr>
 <p align="center">
   <i>I will be waiting to hear from you！</i>
@@ -162,4 +162,3 @@
 </p>
 
 </p>
-
