@@ -12,7 +12,7 @@
 - ⚡️ Fun-Fact: I'm practicing saxophone;
 - 📫 How to reach me: noki.g2000@gmail.com;
 
-<h2 align="left">🔍 Technology of my interest</h2>
+<h2 align="left">🔍 Technology</h2>
 
 > Tools, languages, and other things what I like and what I'm interested in.
 <table aline="center">
