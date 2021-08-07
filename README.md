@@ -2,8 +2,7 @@
 
 ![](https://github.com/nokiPro/nokiPro/blob/main/icon/icons_header3.png)
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-### 🔍 About me
+<h2 align="left">🔍 About me</h2>
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
 - 🌱 I’m currently learning C and Ruby on Rails;
@@ -13,7 +12,9 @@
 - ⚡️ Fun-Fact: I'm practicing saxophone;
 - 📫 How to reach me: noki.g2000@gmail.com;
 
-### 🔍 Technology of my interest
+<h2 align="left">🔍 Technology of my interest</h2>
+
+> Tools, languages, and other things what I like and what I'm interested in.
 <table aline="center">
   <tr>
     <td align="center" width="96">
