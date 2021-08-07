@@ -24,10 +24,9 @@
   <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=nord" />
  
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=nokiPro&column=7" alt="halfrost's Github Trophy" />
-<img align="center" src="https://github.com/halfrost/nokiPro/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
 
 </details>
   
