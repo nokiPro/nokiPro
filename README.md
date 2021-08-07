@@ -126,7 +126,7 @@
   </tr>
 </table>
 
- <br>
+<br>
  
 <details>
   <summary> Other my data</summary>
@@ -150,5 +150,4 @@
    <a href= "https://twitter.com/_nokiPro"><img width="3%" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/></a>
     <a href= "https://facebook.com/daiki.ogawa.2000"><img width="3%" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
   </p>
-
 </p>
