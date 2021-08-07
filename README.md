@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
-![](https://github.com/nokiPro/nokiPro/blob/main/icon/icons_header3.png)
+![](https://github.com/nokiPro/nokiPro/blob/main/AE12CC8B-822C-45CB-B592-8AF88E21D001_4_5005_c.jpeg)
 
 <h2 align="left">🔍 About me</h2>
 
