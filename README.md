@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
-![](https://github.com/nokiPro/nokiPro/blob/main/icons_header3.png)
+![](https://github.com/nokiPro/nokiPro/blob/main/icon/icons_header3.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,37 +15,37 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#">
+        <img src="./icon/c.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
