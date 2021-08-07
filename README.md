@@ -32,9 +32,10 @@
   <i>I will be waiting to hear from you！</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/_nokiPro"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://github.com/nokiPro/"><img width="3%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/></a>
+<a href= "https://www.linkedin.com/"><img width="3%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
+<a href= "https://twitter.com/_nokiPro"><img width="3%" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/></a>
+<a href= "https://facebook.com/daiki.ogawa.2000"><img width="3%" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
 </p>
 
 </p>
