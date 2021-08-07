@@ -1,9 +1,7 @@
-![](https://github.com/nokiPro/nokiPro/blob/main/icons_header3.png)
-
-<!-- Your title -->
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
-<!-- Talking about you -->
+![](https://github.com/nokiPro/nokiPro/blob/main/icons_header3.png)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 👨🏽‍💻 I’m currently working on [SUPER STUDIO](https://super-studio.jp/) and [ieloveGROUP](https://www.ielove-group.jp/);
