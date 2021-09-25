@@ -1,13 +1,6 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
 ![](https://github.com/nokiPro/nokiPro/blob/main/AE12CC8B-822C-45CB-B592-8AF88E21D001_4_5005_c.jpeg)
-
-<h2 align="left">🔍 About me</h2>
-
->  こんにちは。[武蔵大学](https://www.musashi.ac.jp/)に通う小川乃輝と申します。大学では経済学を学んでおりますが、在学中にプログラミングへの興味が芽生え、独学で学び始めました。2021年度は大学を休学し、[42東京](https://42tokyo.jp/)でプログラミングを学んでおります。また、チーム開発や実務の経験を積むため、エンジニア長期インターンに参加しております。2020年8月から2021年7月までは[株式会社いえらぶGROUP](https://www.ielove-group.jp/)に所属しておりました。不動Tech業界を牽引する企業で、大規模な不動産情報管理システムの開発に携わりました。2021年8月からは[株式会社SUPER STUDIO](https://www.ielove-group.jp/)の長期インターンに参加しています。
->  <br><br>Hello. My name is Daiki Ogawa and I am a student at [Musashi University](https://www.musashi.ac.jp/). I am taking a leave of absence from the university to study programming at [42 Tokyo](https://42tokyo.jp/) in 2021. I am participating in a long-term engineering internship to gain experience in team development and practical work. from August 2020 to July 2021, I was a member of [ielove GROUP Inc.](https://www.ielove-group.jp/) a leading Real Estate Tech company, where I was involved in the development of a large-scale real estate information management system. Since August 2021, I have been working at [SUPER STUDIO Inc.](https://www.ielove-group.jp/).
-
-
 <h2 align="left">🔍 Technology</h2>
 
 > Tools, languages, and other things what I like and what I'm interested in.
