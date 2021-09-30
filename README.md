@@ -140,6 +140,6 @@
    <a href= "https://github.com/nokiPro/"><img width="3%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/></a>
    <a href= "https://www.linkedin.com/"><img width="3%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
    <a href= "https://twitter.com/_nokiPro"><img width="3%" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/></a>
-    <a href= "https://facebook.com/daiki.ogawa.2000"><img width="3%" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
+   <a href= "https://facebook.com/daiki.ogawa.2000"><img width="3%" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
   </p>
 </p>
