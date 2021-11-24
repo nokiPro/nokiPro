@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
-![](https://github.com/nokiPro/nokiPro/blob/main/AE12CC8B-822C-45CB-B592-8AF88E21D001_4_5005_c.jpeg)
 <h2 align="left">🔍 Technology</h2>
 
 > Tools, languages, and other things what I like and what I'm interested in.
@@ -38,27 +37,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./icon/go.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icon/swift.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="./icon/rails.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Rails
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icon/zend-framework.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Zend
     </td>
   </tr>
   <tr>
@@ -68,35 +49,17 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./icon/vue.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Vue
-    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="./icon/aws.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>AWS
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./icon/firebase.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>Firebase
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./icon/mysql.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./icon/heroku-icon.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>Heroku
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -120,16 +83,14 @@
 </table>
 
 <br>
- 
-<details>
-  <summary> Other my data</summary>
 
-  <br>
+<h2 align="left">🔍 Other my data</h2>
 
-  [![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=default" />
-  <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=default" />
-</details>
+<br>
+
+[![](https://raw.githubusercontent.com/nokiPro/nokiPro/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokiPro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=default" />
+<img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=nokiPro&count_private=true&show_icons=true&show_icons=true&theme=default" />
 
 <br>
 
