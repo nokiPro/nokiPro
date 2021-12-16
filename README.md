@@ -1,4 +1,4 @@
-## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
+##  Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
 <h2 align="left">🔍 Technology</h2>
 
