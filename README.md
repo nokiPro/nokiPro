@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
-<h2 align="left">🔍 Technology💋🍒</h2>
+<h2 align="left">🔍 Technology🍒📕🥰</h2>
 
 > Tools, languages, and other things what I like and what I'm interested in.
 <table aline="center">
