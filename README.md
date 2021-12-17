@@ -1,6 +1,10 @@
 ## Hi 👋, I'm Daiki Ogawa, a Developer 🚀 from Japan.
 
 <h2 align="left">🔍 Technology</h2>
+💋🍒
+
+![AB6992BB-6CAA-4881-9C25-239DE41913D2_1_105_c](https://github.com/nokiPro/nokiPro/blob/main/AB6992BB-6CAA-4881-9C25-239DE41913D2_1_105_c.jpeg)
+
 
 > Tools, languages, and other things what I like and what I'm interested in.
 <table aline="center">
